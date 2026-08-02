@@ -1,6 +1,6 @@
 # Practical 2 - Linear Search
 
-##summary
+## summary
 Linear search checks each item one by one, while binary search splits a sorted list and finds the item faster. Use linear search for small or unsorted data, and binary search for large sorted data.
 
 ## Conclusion
